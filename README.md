@@ -11,3 +11,7 @@ For this project, you will build a message generator program. Every time a user 
 ## My idea:
 
 I decided to go with a message that tells you where you will go on holiday, how you will get there and the main activity you will do there. 
+
+## To run:
+
+This script can be run in a node.js environment.
