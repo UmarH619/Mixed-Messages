@@ -10,4 +10,4 @@ For this project, you will build a message generator program. Every time a user 
 
 ## My idea:
 
-I decided to go with a quote generator that mixes up quotes from Michael Scott into a random sentence. It will take 3 different parts from each quote, start, middle and end. This will make it so that each quote will be randomly mixed from a few different ones.
+I decided to go with a message that tells you where you will go on holiday, how you will get there and the main activity you will do there. 
